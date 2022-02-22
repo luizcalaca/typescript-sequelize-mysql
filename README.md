@@ -1,8 +1,13 @@
 #
 
-##
+## Run Project
 
-### ESLint
+```
+npm install
+npm run dev
+```
+
+### ESLint configuration for initial
 
 ```
 npm install -D eslint
